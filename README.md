@@ -121,16 +121,6 @@ The project is designed to reflect real-world analytics tasks commonly performed
 
 
 
-## Project Structure
-
-
-├── data/               # Raw and cleaned datasets
-├── notebooks/          # Python EDA and cleaning notebooks
-├── sql/                # SQL queries
-├── dashboard/          # Power BI file
-├── report/             # Analytical report
-├── presentation/       # Gamma PPT
-└── README.md
 
 
 
