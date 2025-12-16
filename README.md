@@ -20,7 +20,12 @@ The project is designed to reflect real-world analytics tasks commonly performed
   * Customer and product information
   * Revenue, cost, and pricing variables
   
+## key Insights
+Analyzed 3.9K+ transactions to evaluate customer value, pricing, and retention
 
+Identified subscription and express-shipping users as high-revenue segments
+
+Highlighted discount-efficient customers and premium product opportunities
 
 
 ## Tools & Technologies
